@@ -8,7 +8,7 @@
   <title>Welcome | Pelanggan Dashboard</title>
   <!-- plugins:css -->
   <script type="text/javascript" src="<?php echo base_url() ?>assets/js/jquery-3.3.1.js"></script>
-  
+
   <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="<?php echo base_url() ?>/assets/css/vendor.bundle.base.css">
   <link rel="stylesheet" href="<?php echo base_url() ?>/assets/css/vendor.bundle.addons.css">
@@ -28,12 +28,12 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="<?php echo base_url() ?>/assets/css/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="http://armestudio.id/uploads/header_logo/header_logo_1544110504.png" />
+  <link rel="shortcut icon" href="http://armestudio.co.id/uploads/header_logo/header_logo_1544110504.png" />
 
   <script type="text/javascript">
     $(document).ready(function() {
-        $('#example').DataTable();
-    } );
+      $('#example').DataTable();
+    });
   </script>
 </head>
 
@@ -43,15 +43,15 @@
     <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
         <a class="navbar-brand brand-logo" href="<?php echo site_url() ?>/pelanggan">
-          <img src="http://armestudio.id/uploads/header_logo/header_logo_1544110504.png" alt="logo" style="min-height:50px;"/>
+          <img src="http://armestudio.co.id/uploads/header_logo/header_logo_1544110504.png" alt="logo" style="min-height:50px;" />
         </a>
         <a class="navbar-brand brand-logo-mini" href="<?php echo site_url() ?>/pelanggan">
-          <img src="http://armestudio.id/uploads/header_logo/header_logo_1544110504.png" alt="logo" style="min-width:50px;"/>
+          <img src="http://armestudio.co.id/uploads/header_logo/header_logo_1544110504.png" alt="logo" style="min-width:50px;" />
         </a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center">
         <ul class="navbar-nav navbar-nav-left header-links d-none d-md-flex">
-          
+
         </ul>
         <ul class="navbar-nav navbar-nav-right">
           <li class="nav-item dropdown">
@@ -203,32 +203,32 @@
         </button>
       </div>
     </nav>
-    
+
     <!-- sidebar -->
-      <?php echo $this->load->view($sidebar) ?>
+    <?php echo $this->load->view($sidebar) ?>
     <!-- sidebar -->
 
 
 
-      <div class="main-panel">
-       
-        <div class="content-wrapper">
-          <div class="row purchace-popup">
-            <div class="col-12">
-              
-            </div>
+    <div class="main-panel">
+
+      <div class="content-wrapper">
+        <div class="row purchace-popup">
+          <div class="col-12">
+
           </div>
-          
-          <div class="row">
-            <div class="col-lg-12 col-md-12">
-              <?php $this->load->view($content) ?>
-            </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+            <?php $this->load->view($content) ?>
           </div>
+        </div>
 
 
         <!-- content-wrapper ends -->
         <!-- partial:partials/_footer.html -->
-       
+
         <!-- partial -->
       </div>
       <!-- main-panel ends -->
