@@ -1,4 +1,4 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 /*
 | -------------------------------------------------------------------
 | DATABASE CONNECTIVITY SETTINGS
@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'armestud';
-$db['default']['password'] = 'incubatorUR';
-$db['default']['database'] = 'armestud_arme';
+$db['default']['username'] = 'u1582607_deviwillieam';
+$db['default']['password'] = 'Willi3@m17';
+$db['default']['database'] = 'u1582607_armestud_arme';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
