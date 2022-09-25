@@ -1,4 +1,4 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 /*
 | -------------------------------------------------------------------------
 | URI ROUTING
@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "login";
 $route['404_override'] = '';
+$route['(assets/:any)'] = 'assets/videos';
 
 
 /* End of file routes.php */
