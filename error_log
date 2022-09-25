@@ -1,0 +1,58 @@
+[25-Feb-2019 10:42:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:42:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:42:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:42:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:44:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:44:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:44:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:44:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:44:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:45:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:45:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:45:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:45:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:46:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 46
+[25-Feb-2019 10:50:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on string in /home/armestud/member.armestudio.id/application/views/admin/filter_marker.php on line 22
+[25-Feb-2019 10:50:22 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on string in /home/armestud/member.armestudio.id/application/views/admin/filter_marker.php on line 22
+[25-Feb-2019 10:50:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on string in /home/armestud/member.armestudio.id/application/views/admin/filter_marker.php on line 22
+[25-Feb-2019 10:50:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on string in /home/armestud/member.armestudio.id/application/views/admin/filter_marker.php on line 22
+[25-Feb-2019 11:03:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on null in /home/armestud/member.armestudio.id/application/controllers/marker_admin.php on line 81
+[03-Mar-2019 13:02:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '/' in /home/armestud/member.armestudio.id/application/views/register.php on line 33
+[03-Mar-2019 13:02:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '/' in /home/armestud/member.armestudio.id/application/views/register.php on line 33
+[03-Mar-2019 13:50:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:53:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:53:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:53:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:53:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:53:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:56:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:56:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 13:57:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:03:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:04:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:05:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:08:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:08:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:08:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:08:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 14:10:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::where() in /home/armestud/member.armestudio.id/application/models/m_login.php on line 22
+[03-Mar-2019 16:09:15 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:10:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:11:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:11:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:14:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:15:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:15:14 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[03-Mar-2019 16:18:28 Asia/Jakarta] PHP Fatal error:  Call to undefined function prosesregister() in /home/armestud/member.armestudio.id/application/controllers/login.php on line 31
+[14-Mar-2019 23:07:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'funtion' (T_STRING), expecting variable (T_VARIABLE) in /home/armestud/member.armestudio.id/application/models/m_admin.php on line 20
