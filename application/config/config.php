@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://member.armestudio.co.id/';
+$config['base_url'] = 'member.armestudio.co.id/';
 
 /*
 |--------------------------------------------------------------------------
